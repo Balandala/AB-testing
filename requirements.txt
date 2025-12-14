@@ -3,3 +3,4 @@ notebook
 pandas
 matplotlib
 scipy
+statsmodels
